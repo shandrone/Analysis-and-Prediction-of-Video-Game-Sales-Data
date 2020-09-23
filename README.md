@@ -1,0 +1,2 @@
+# Analysis-and-Prediction-of-Video-Game-Sales-Data
+This Jupyter Notebook explores video game data starting from 7th generation consoles (PS2, Xbox, GameCube). This notebook shows in depth correlation between total sales numbers, consoles, critical reception, game genre, regional sales data. A prediction model has been built to predict global sales number of video games based on regional sales data.
